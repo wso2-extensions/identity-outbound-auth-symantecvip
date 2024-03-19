@@ -1,1 +1,1 @@
-# identity-outbound-auth-symantecvip-
+# DEPRECATED identity-outbound-auth-symantecvip
